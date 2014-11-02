@@ -1,0 +1,27 @@
+2014-11-02  Akmal Idris  <akmal.idris@colorado.edu>
+
+	* General (All Pages)
+
+		* Banner font changed to Calibri from default font (FontAwesome)
+
+		* Font formatting added (bold, font size change and spacing)
+		
+		* Added a new page "Visa" (visa.html)
+		* Visa link changed from comingsoonprogram.html to visa.html
+		
+
+	* Index Page 
+	
+		* Lightning strike image removed from slider
+		
+		* Added two new image on slider:
+			* Engineering Center
+			* Discovery Learning Center
+			
+	* Hotel Page
+		
+		* Text changed from "A limited number of rooms at a special conference rate of $149 have been reserved at the Millennium Harvest House. The hotel is at walking distance (5min) from the conference venue, by Boulder Creek, with a pool and tennis courts." to "A limited number of rooms at a special conference rate of $149/night have been reserved at the Millennium Harvest House. This hotel is walking distance (about 10 minutes) from the conference venue."
+		
+	* Visa Page
+	
+		* Added text : "A visa support letter will be provided to registered international authors and attendees upon request. More information on how to request a visa support letter will be posted once registration opens."
