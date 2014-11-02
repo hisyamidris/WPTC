@@ -4,7 +4,7 @@
 
 		* Banner font changed to Calibri from default font (FontAwesome)
 
-		* Font formatting added (bold, font size change and spacing)
+		* Font formatting added on banner text (bold, font size change and spacing)
 		
 		* Added a new page "Visa" (visa.html)
 		* Visa link changed from comingsoonprogram.html to visa.html
@@ -25,3 +25,8 @@
 	* Visa Page
 	
 		* Added text : "A visa support letter will be provided to registered international authors and attendees upon request. More information on how to request a visa support letter will be posted once registration opens."
+		
+	* Other Changes
+	
+		* Removed unused files and images
+		* Placed old files in folder called "Old"
