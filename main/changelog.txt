@@ -1,3 +1,9 @@
+2014-11-03  Akmal Idris  <akmal.idris@colorado.edu>
+
+	* Registration
+
+		* Students and Life Members Late Registration fee has been increased to $250 from $200
+
 2014-11-02  Akmal Idris  <akmal.idris@colorado.edu>
 
 	* General (All Pages)
